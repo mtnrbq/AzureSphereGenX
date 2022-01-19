@@ -10,5 +10,25 @@
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "files.associations": {
         "gx_bindings.h": "c"
-    }
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#6a34a6",
+      "activityBar.activeBorder": "#c27c3d",
+      "activityBar.background": "#6a34a6",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#c27c3d",
+      "activityBarBadge.foreground": "#15202b",
+      "sash.hoverBorder": "#6a34a6",
+      "statusBar.background": "#51287f",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#6a34a6",
+      "statusBarItem.remoteBackground": "#51287f",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#51287f",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#51287f99",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#51287f"
 }

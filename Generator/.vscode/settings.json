@@ -9,5 +9,25 @@
             ],
             "url": "./app_model.schema.json"
         }
-    ]
+    ],
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#1ddc4e",
+      "activityBar.activeBorder": "#7c56e9",
+      "activityBar.background": "#1ddc4e",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#7c56e9",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "sash.hoverBorder": "#1ddc4e",
+      "statusBar.background": "#17af3e",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#1ddc4e",
+      "statusBarItem.remoteBackground": "#17af3e",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#17af3e",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#17af3e99",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#17af3e"
 }

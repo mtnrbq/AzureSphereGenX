@@ -7,5 +7,25 @@
         "AZURE_SPHERE_TARGET_API_SET": "9"
     },
     "cmake.configureOnOpen": true,
-    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#9659fa",
+      "activityBar.activeBorder": "#7c3104",
+      "activityBar.background": "#9659fa",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#7c3104",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "sash.hoverBorder": "#9659fa",
+      "statusBar.background": "#7727f9",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#9659fa",
+      "statusBarItem.remoteBackground": "#7727f9",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#7727f9",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#7727f999",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#7727f9"
 }
